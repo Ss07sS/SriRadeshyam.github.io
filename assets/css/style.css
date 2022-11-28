@@ -1415,6 +1415,7 @@ button.mfp-arrow {
 /* ======= Contact  ======= */
 
 .connect{
+	margin-left: 25%;
     justify-content: center;
     align-items: center;
     width: 200px;
