@@ -436,10 +436,10 @@ input[type="submit"] {
 }
 
 .header .caption h4 {
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 300;
     text-transform: uppercase;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     -webkit-animation-delay: .2s;
     animation-delay: .2s;
     letter-spacing: 15px;
@@ -452,12 +452,12 @@ input[type="submit"] {
     animation-delay: .6s;
     text-transform: uppercase;
     letter-spacing: 3px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     font-weight: 400;
 }
 
 .header .caption p {
-    font-size: 18px;
+    font-size: 15px;
     font-weight: 300;
     margin-top: 15px;
     color: #fff;
@@ -484,7 +484,7 @@ input[type="submit"] {
     content: '';
     width: 7px;
     height: 7px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     border-radius: 50%;
     background: #1ea9b3;
     position: absolute;
