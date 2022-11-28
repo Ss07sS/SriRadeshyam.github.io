@@ -423,7 +423,7 @@ input[type="submit"] {
 /* =======  Header  ======= */
 
 .header {
-    min-height: 150vh;
+    min-height: 550vh;
     position: relative;
 }
 
