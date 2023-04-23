@@ -68,7 +68,7 @@ body {
     width:100% ;
     height: 150px;
     cursor: pointer; 
-    transition: 1s;
+    transition: .5s;
   }
   
   .gallery .column img:hover {
@@ -76,8 +76,8 @@ body {
     width:110% ;
     height: 170px;
     
-
-    transition: 1s;
+border-radius: 0px;
+    transition: .5s;
  
 }
   
@@ -100,11 +100,11 @@ body {
   .gallery .containers #expandedImg{
   
  
-
+border-radius:5px;
  
     width:50% ;
     height: 200px;
-    transition: 1s;
+    transition: .5s;
 
 }
 .gallery .containers #expandedImg:hover{
@@ -112,8 +112,8 @@ body {
 
 height: 350px;
 margin-right: 60px;
-      
-      transition: 1s;
+      border-radius:0px;
+      transition: .5s;
     
     }
   /* Expanding image text */
